@@ -1,5 +1,7 @@
 👋 Hi, I'm Fourat Mejri
 
+![1728900352621](https://github.com/user-attachments/assets/152b8107-1c10-48c7-a8b1-40fcf8f6bc5e)
+
 🚀 Full-Stack Software Engineer | Passionate about building scalable, high-impact solutions.
 
 👀 About Me
