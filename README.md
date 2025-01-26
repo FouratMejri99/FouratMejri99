@@ -12,9 +12,9 @@ I thrive on solving complex problems and transforming ideas into seamless digita
 
 Frontend: React, Angular, TypeScript, JavaScript
 
-Backend: Node.js, Spring Boot, Express.js
+Backend: Node.js, Spring Boot, Express.js , Java
 
-Databases: PostgreSQL, MongoDB, Oracle
+Databases: PostgreSQL, MongoDB, Oracle 
 
 DevOps & Tools: Docker, Jenkins, Git, Bitbucket
 
