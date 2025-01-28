@@ -22,7 +22,7 @@ DevOps & Tools: Docker, Jenkins, Git, Bitbucket
 
 🔗 https://www.linkedin.com/in/fourat-mejri/
 
-📧 fouratm3@gmail.com
+📧 fouratmejriwork@gmail.com
 
 💡 Always open to new opportunities, collaborations, and exciting tech discussions!
 
