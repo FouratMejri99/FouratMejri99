@@ -1,35 +1,29 @@
-👋 Hi, I'm Fourat Mejri
+# 👋 Hi, I'm **Fourat Mejri**  
 
-🚀 Full-Stack Software Engineer
+## 🚀 **Full-Stack Software Engineer**  
+**Passionate about building scalable, high-impact solutions.**  
 
-Passionate about building scalable, high-impact solutions.
+## 👀 **About Me**  
+I thrive on solving complex problems and transforming ideas into seamless digital experiences.  
+With expertise in both front-end and back-end development, I specialize in creating **robust architectures that drive business value.**  
 
-👀 About Me
+## 🛠️ **Tech Stack**  
 
-I thrive on solving complex problems and transforming ideas into seamless digital experiences. With expertise in both front-end and back-end development, I specialize in creating robust architectures that drive business value.
+### **Frontend:**  
+- **React**, **Angular**, **TypeScript**, **JavaScript**  
 
-🛠️ Tech Stack
+### **Backend:**  
+- **Node.js**, **Spring Boot**, **Express.js**, **Java**  
 
-Frontend:
+### **Databases:**  
+- **PostgreSQL**, **MongoDB**, **Oracle**  
 
-React, Angular, TypeScript, JavaScript
+### **DevOps & Tools:**  
+- **Docker**, **Jenkins**, **Git**, **Bitbucket**  
 
-Backend:
+## 📫 **Let's Connect!**  
 
-Node.js, Spring Boot, Express.js, Java
+🔗 [**LinkedIn**](https://www.linkedin.com/in/fourat-mejri/)  
+📧 **fouratmejriwork@gmail.com**  
 
-Databases:
-
-PostgreSQL, MongoDB, Oracle
-
-DevOps & Tools:
-
-Docker, Jenkins, Git, Bitbucket
-
-📫 Let's Connect!
-
-🔗 LinkedIn
-📧 fouratmejriwork@gmail.com
-
-💡 Always open to new opportunities, collaborations, and exciting tech discussions!
-
+💡 **Always open to new opportunities, collaborations, and exciting tech discussions!**  
