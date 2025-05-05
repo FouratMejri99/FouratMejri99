@@ -10,7 +10,7 @@ With expertise in both front-end and back-end development, I specialize in creat
 ## 🛠️ **Tech Stack**  
 
 ### **Frontend:**  
-- **React**, **Angular**, **TypeScript**, **JavaScript**  
+- **React**, **NextJs**, **Angular**, **TypeScript**, **JavaScript**  
 
 ### **Backend:**  
 - **Node.js**, **Spring Boot**, **Express.js**, **Java**  
