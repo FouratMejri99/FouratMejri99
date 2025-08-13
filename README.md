@@ -24,6 +24,6 @@ With expertise in both front-end and back-end development, I specialize in creat
 ## 📫 **Let's Connect!**  
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/fourat-mejri/)  
-📧 **fouratmejriwork@gmail.com**  
+📧 **fouratmejri97@gmail.com**  
 
 💡 **Always open to new opportunities, collaborations, and exciting tech discussions!**  
