@@ -63,7 +63,7 @@ With expertise in both front-end and back-end development, I specialize in creat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouratMejri99&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 I only Contribute to feed my snake 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FouratMejri99/FouratMejri99/output/github-contribution-grid-snake-dark.svg">
