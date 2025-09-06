@@ -63,4 +63,5 @@ With expertise in both front-end and back-end development, I specialize in creat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouratMejri99&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
+![Snake animation](https://github.com/FouratMejri99/FouratMejri99/blob/output/github-contribution-grid-snake.svg)
 
