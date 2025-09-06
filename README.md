@@ -52,4 +52,26 @@ With expertise in both front-end and back-end development, I specialize in creat
 💡 **Always open to new opportunities, collaborations, and exciting tech discussions!**  
 
 
-[Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fouratmejri&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=fouratmejri&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouratmejri&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+## 🧠 Activity Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fouratmejri&hide_border=true" alt="Activity Graph"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fouratmejri/fouratmejri/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/fouratmejri/fouratmejri/output/github-contribution-grid-snake.svg">
+</picture>
+
