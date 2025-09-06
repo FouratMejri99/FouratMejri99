@@ -50,3 +50,6 @@ With expertise in both front-end and back-end development, I specialize in creat
 📧 **fouratmejri97@gmail.com**  
 
 💡 **Always open to new opportunities, collaborations, and exciting tech discussions!**  
+
+
+[Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
