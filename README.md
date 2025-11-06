@@ -56,11 +56,11 @@ With expertise in both front-end and back-end development, I specialize in creat
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fouratMejri99&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <p align="right">
+
+</p>
+  <p align="left">
   <img src="https://streak-stats.demolab.com?user=fouratMejri99&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
-</p>
-
 
 
 <p align="left">
