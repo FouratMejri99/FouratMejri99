@@ -63,8 +63,5 @@ With expertise in both front-end and back-end development, I specialize in creat
 </p>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouratMejri99&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 
