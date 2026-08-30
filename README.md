@@ -1,3 +1,5 @@
+# Core Network Engineer
+
 ## 🛠️ Tech Stack  
 
 ### 📡 Core Network Technologies (Telecom)
@@ -13,7 +15,7 @@
 **Technologies:** IP/MPLS, SD-WAN, QoS, VPN (IPSec, GRE)  
 
 ### 🖥️ Platforms & Vendors  
-**Telecom:** Ericsson, Nokia, Huawei, Cisco (ASR/NCS)  
+**Telecom:** Ericsson, Nokia, Huawei, Cisco (ASR/NCS), Netscout  
 **Enterprise Networking:** Cisco (IOS, IOS-XR, NX-OS), Juniper (JunOS)  
 
 ### 🔒 Security  
