@@ -15,7 +15,7 @@
 **Technologies:** IP/MPLS, SD-WAN, QoS, VPN (IPSec, GRE)  
 
 ### 🖥️ Platforms & Vendors  
-**Telecom:** Ericsson, Nokia, Huawei, Cisco (ASR/NCS), Netscout  
+**Telecom:** Ericsson, Nokia, Huawei, Cisco (ASR/NCS), Netscout, Leissner
 **Enterprise Networking:** Cisco (IOS, IOS-XR, NX-OS), Juniper (JunOS)  
 
 ### 🔒 Security  
